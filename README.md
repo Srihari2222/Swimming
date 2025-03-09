@@ -20,25 +20,25 @@
 * kicking (chin up and breathing using kick board)
 * back-floating
 
-## Day5 (04/03/2025)
+## Day6 (04/03/2025)
 * kicking (chin up and breathing using kick board)
 * Introduction to hand rotation.
 
-## Day6 (06/03/2025)
+## Day7 (06/03/2025)
 * kicking (chin up and breathing using kick board)
 * hand rotation.
 
-## Day7 (07/03/2025)
+## Day8 (07/03/2025)
 * kicking (chin up and breathing using kick board, dog pedalling)
 * hand rotation
 * back floating (without kick board)
 
-## Day8 (08/03/2025)
+## Day9 (08/03/2025)
 * kicking (chin up and breathing using kick board, dog pedalling)
 * hand rotation
 * back floating (without kick board)
 
-## Day9 (09/03/2025)
+## Day10 (09/03/2025)
 * kicking (chin up and breathing using kick board, dog pedalling)
 * hand rotation
 * back floating (without kick board) + kicking + hand movement
