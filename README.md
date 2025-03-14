@@ -52,3 +52,9 @@
 * kicking (chin up and breathing using kick board, dog pedalling)
 * hand rotation
 * back floating (without kick board) + kicking + hand movement
+
+## Day13 (13/03/2025)
+* kicking (chin up and breathing using kick board)
+* hand rotation
+* Introduction to side breathing
+* back floating (without kick board) + kicking + hand movement
