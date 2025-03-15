@@ -58,3 +58,8 @@
 * hand rotation
 * Introduction to side breathing
 * back floating (without kick board) + kicking + hand movement
+
+## Day14 (14/03/2025)
+* kicking (chin up and breathing using kick board)
+* Hand rotation
+* Side breathing
