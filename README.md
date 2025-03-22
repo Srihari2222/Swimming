@@ -84,3 +84,9 @@
 * kicking (chin up and breathing using kick board)
 * Side breathing
 * Back float + kicking
+
+## Day19 (21/03/2025)
+* kicking (chin up and breathing using kick board)
+* Side breathing
+* Back float + kicking
+* Diving
