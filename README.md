@@ -108,3 +108,17 @@
 * Side breathing
 * Back float + kicking + hand rotation using kick board
 * Diving
+
+## Day23 (26/03/2025)
+* kicking (chin up and breathing using kick board) Without stopping full length
+* Side breathing
+* Back float + kicking + hand rotation using kick board
+
+## Day24 (27/03/2025)
+* kicking (chin up and breathing using kick board) Without stopping full length
+* Side breathing
+* Back float + kicking + hand rotation using kick board
+
+## Day25 (28/03/2025)
+* Side breathing
+* Back float + kicking + hand rotation using kick board
