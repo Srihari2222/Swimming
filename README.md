@@ -126,3 +126,7 @@
 ## Day26 (29/03/2025)
 * Side breathing
 * Back float + kicking + hand rotation
+
+## Day27 (30/03/2025)
+* Side breathing
+* Back float + kicking + hand rotation
