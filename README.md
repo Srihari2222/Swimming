@@ -134,3 +134,12 @@
 ## Day28 (1/04/2025)
 * Side breathing
 * Back float + kicking + hand rotation
+
+## Day29 (2/04/2025)
+* Side breathing
+* Back stroke + kicking + hand rotation
+
+## Day30 (3/04/2025)
+* Free Style
+* Back stroke
+* Diving
