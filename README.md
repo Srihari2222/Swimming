@@ -143,3 +143,8 @@
 * Free Style
 * Back stroke
 * Diving
+
+## Day30 (4/04/2025)
+* Dolphin Kick
+* Back stroke
+* Diving
