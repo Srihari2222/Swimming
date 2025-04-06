@@ -148,3 +148,9 @@
 * Dolphin Kick
 * Back stroke
 * Diving
+
+## Day32 (5/04/2025)
+* Dolphin Kick
+* Back stroke
+* Diving
+* High Elbow (using Kick Board)
