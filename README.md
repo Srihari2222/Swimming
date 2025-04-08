@@ -154,3 +154,8 @@
 * Back stroke
 * Diving
 * High Elbow (using Kick Board)
+
+* ## Day33 (6/04/2025)
+* Dolphin Kick
+* Free-Style
+* Total 500-meters
