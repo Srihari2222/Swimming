@@ -159,3 +159,15 @@
 * Dolphin Kick
 * Free-Style
 * Total 500-meters
+
+* ## Day34 (8/04/2025)
+* Dolphin Kick
+* Free-Style
+* Back stroke
+* Total 550-meters
+
+* ## Day35 (9/04/2025)
+* Dolphin Kick
+* Free-Style
+* Back stroke
+* Total 500-meters
