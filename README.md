@@ -179,8 +179,8 @@
 * Total 550-meters
 
 * ## Day37 (11/04/2025)
-* Dolphin Kick
 * Free-Style
+* High Elbow Practice using kick board
 * Back stroke
 * Total 550-meters
 
